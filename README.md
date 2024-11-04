@@ -2,7 +2,7 @@
   <tr>
     <td align="center" style="padding: 20px;">
       <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=armandogjona&icon=0&color=12" alt="Visitor Count" style="border: none;" />
+        <img src="https://visitcount.itsvg.in/api?id=armandogjona&icon=9&color=6" alt="Visitor Count" style="border: none;" />
       </a>
     </td>
   </tr>
@@ -22,9 +22,9 @@
   <tr>
     <td align="center" style="padding: 20px;">
       <h1>📊 GitHub Stats</h1>
-      <img src="https://github-readme-stats.vercel.app/api?username=armandogjona&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 10px;" /><br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandogjona&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats" style="border-radius: 10px; margin-bottom: 10px;" /><br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandogjona&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=armandogjona&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 10px;" /><br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandogjona&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="border-radius: 10px; margin-bottom: 10px;" /><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandogjona&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
